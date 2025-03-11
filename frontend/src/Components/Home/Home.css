@@ -1,0 +1,192 @@
+.home-main-body{
+    background-image: url("../../Assets/homepage.jpg");
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-search{
+    background-color: white;
+    height: 40%;
+    width: 500px;
+    margin-left: 10px;
+    margin-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+}
+
+.home-search-upper{
+    flex: 0.45;
+    padding-top: 20px;
+}
+
+.home-search-lower{
+    flex: .5;
+    display: flex;
+}
+
+.Find-Your-Perfect-Land{
+    padding-left: 75px;
+    padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight:bold;
+}
+
+.home-search-text{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.district-input{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 450px;
+    height: 50px;
+}
+
+.home-search-lower-left{
+    flex: 1;
+    
+}   
+
+.home-search-lower-right{
+    flex: 1;
+}   
+
+.lower-left-input{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+.home-search-button{
+    height: 50px;
+    width: 458px;
+    background-color: #da2c32;
+    border: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+}
+
+.home-search-button:hover{
+    background-color: black;
+}
+
+.home-search-submit{
+    flex: 1;
+    margin-right: 15px;
+    margin-top: 20px;
+    padding-left: 11px;
+    padding-top: 10px;
+    
+}
+
+.our-services{
+    background-color: #eeefef;
+    height: 500px;
+    
+}
+
+.our-services-heading{
+    font-size: 2.2rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+    padding-left: 650px;
+    font-weight: bold;
+}
+
+.our-services-box{
+    display: flex;
+    margin-top: 20px;
+}
+.buy{
+    background-color:#eeefef ;
+    flex: 1;
+    height: 300px;
+    width: 300px;
+}
+
+.sell{
+    background-color: #eeefef;
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.saved{
+    flex: 1;
+    background-color: #eeefef;
+    height: 100px;
+    margin-left: 20px;
+}
+
+.inner-buy{
+    background-color: white;
+    height: 280px;
+    padding-left: 70px;
+    margin-left: 300px;
+    
+}
+
+.buy-icon{
+    height: 150px;
+    padding-top: 30px;
+}
+
+.saved-icon{
+    height: 145px;
+    padding-top: 30px
+}
+
+.inner-sell{
+    background-color: white;
+    height: 280px;
+    padding-left: 80px;
+}
+
+.inner-saved{
+    background-color: white;
+    height: 280px;
+    padding-left: 70px;
+    margin-right: 300px;
+}
+
+.buy-service-button{
+    height: 50px;
+    width: 200px;
+    background-color: #da2c32;
+    border: none;
+    color: white;
+    margin-left: -20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.buy-service-button:hover{
+    background-color: black;
+}
+
+.saved-service-button{
+    height: 50px;
+    width: 200px;
+    background-color: #da2c32;
+    border: none;
+    color: white;
+    margin-left: -20px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.saved-service-button:hover{
+    background-color: black;
+}

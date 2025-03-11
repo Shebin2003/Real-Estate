@@ -1,0 +1,192 @@
+.sale-container{
+    background-color: #eeefef;
+    height: 1750px;
+    color: black;
+    padding-top: 75px;
+}
+
+
+.sale-inner-container{
+    height: 1700px;
+    width: 1200px;
+    background-color: white;
+    margin-left: 11%;
+    margin-top: 25px;
+}
+
+.enter-details{
+    margin-left: 380px;
+    font-size: 2.3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.map-container{
+    background-color: black;
+    height: 700px;
+    width: 1150px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.search-container{
+    margin-left: 300px;
+}
+
+.place-search{
+    height: 50px;
+    width: 1000px;
+    margin-left: -220px;
+    margin-top: 10px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.search-button1{
+    height: 50px;
+    width: 150px;
+    background-color: #da2c32;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 689px;
+}
+
+.search-button1:hover{
+    background-color: black;
+}
+
+.search-button2{
+    height: 50px;
+    width: 250px;
+    background-color: #da2c32;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-button2:hover{
+    background-color: black;
+}
+
+.input-data-container{
+    height: 250px;
+    flex: 1;
+    display: flex;
+    margin-top: 20px;
+}
+
+.input-data-container-left{
+    flex: 1;
+    padding-left: 50px;
+}
+
+.input-data-container-right{
+    flex: 1;
+}
+
+.city-select{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.input-data-container-left-inputs{
+    height: 50px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.choose-image{
+    font-size: large;
+    margin-left: 25px;
+   
+}
+
+.submit-image{
+    height: 50px;
+    width: 150px;
+    background-color: #da2c32;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-image:hover{
+    background-color: black;
+}
+
+.description-heading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.description-container{
+    margin-top: 100px;
+}
+.description-input{
+    height: 150px;
+    width: 1000px;
+    margin-top: 10px;
+    margin-left: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+    vertical-align:top;
+    font-size: 1rem;
+}
+
+.description-input:focus {
+    outline: none;
+    border-color: dodgerblue;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+
+.sale-submit-button{
+    height: 50px;
+    width: 200px;
+    background-color: #da2c32;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 5px;
+    margin-left: 900px;
+}
+
+.sale-submit-button:hover{
+    background-color: black;
+}
+
+.district-select{
+    height: 57px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image-warning-text{
+    font-size: large;
+    font-weight: bold;
+}
+
+.image-warning{
+    padding-left: 10%;
+    padding-top: 2%;
+}

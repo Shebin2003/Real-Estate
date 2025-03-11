@@ -1,0 +1,50 @@
+.header-container{
+    height: 70px;
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+}
+
+.header-upper-container{
+    height: 90%;
+    background-color: #303030;
+    flex: 1;
+    padding-left: 1%;
+    
+}
+
+.header-image{
+    padding-left:1%;
+    padding-top: .7%;
+    
+}
+
+.header-text{
+    flex: 1;
+    background-color: #303030;
+    height: 90%;
+    display: flex;
+}
+
+.account-dropdown-container{
+    padding-left: 88%;
+    padding-top: 3%;
+}
+
+.account-dropdown{
+    width: 100px;
+    background-color: #303030;
+    padding-top: 5%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:1.2rem;
+    color: white;
+    border: none;
+    -webkit-appearance: none; /* Remove default arrow for webkit browsers */
+    -moz-appearance: none; /* Remove default arrow for Mozilla Firefox */
+    appearance: none; /* Remove default arrow for other browsers */
+    outline: none; /* Remove default focus outline */
+    cursor: pointer;
+}
+

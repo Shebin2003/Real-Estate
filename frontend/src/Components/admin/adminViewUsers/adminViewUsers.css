@@ -1,0 +1,14 @@
+.viewusers-container{
+    height: 100vh;
+    padding-top: 5%;
+    padding-left: 17%;
+}
+
+.users-list-table{
+    width: 80%;
+}
+
+.viewuser-heading{
+    padding-left: 30%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
